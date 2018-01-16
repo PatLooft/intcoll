@@ -1,5 +1,5 @@
 # CIS 2168 intcoll
-various uses of data structures via the same program
+various uses of data structures via the same program.
 The program uses 3 different lists: a positive list (P), a negative list (N), and a list in which the last instance of the number was positive (L).
 Example input:
 5
